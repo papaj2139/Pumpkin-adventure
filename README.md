@@ -8,3 +8,5 @@ its a game where you walk around and collect pumpkins.
 there is a bug where you cant collect some pumpkins
 
 its using unity 2021.3.30f1
+
+you have to rebuild it for it to work (rebuilding can generate some errors).
